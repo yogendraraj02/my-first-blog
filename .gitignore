@@ -14,6 +14,8 @@ db.sqlite3
 # Static folder at project root
 /static/
 
+#secretkey
+SECRET_KEY
 # macOS
 ._*
 .DS_Store
